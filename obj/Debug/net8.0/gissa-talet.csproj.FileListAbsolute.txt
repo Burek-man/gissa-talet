@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\GitHub\gissa-talet\obj\Debug\net8.0\refint\gissa-talet.
 C:\Users\Admin\Documents\GitHub\gissa-talet\obj\Debug\net8.0\gissa-talet.pdb
 C:\Users\Admin\Documents\GitHub\gissa-talet\obj\Debug\net8.0\gissa-talet.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\gissa-talet\obj\Debug\net8.0\ref\gissa-talet.dll
+C:\Users\Admin\Documents\GitHub\gissa-talet\obj\Debug\net8.0\gissa-talet.sourcelink.json
